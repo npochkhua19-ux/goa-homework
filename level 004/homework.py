@@ -1,0 +1,6 @@
+input("ramdenia 5+5 :")
+input("sad aris piramidebi :")
+input("ras wams dzroxa :")
+input("raferia ca :")
+input("ramedeni titi aq adamians :")
+input("ramdenia 100 + 5 :")
