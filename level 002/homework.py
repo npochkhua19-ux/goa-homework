@@ -25,4 +25,4 @@ print(surn_name)
 Age=14
 print(Age)
 
-print(5a5)
+print(5+5)
